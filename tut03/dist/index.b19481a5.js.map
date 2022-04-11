@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAIMA,EAAQ,EAAE,OAChBC,QAAQC,IAAI,IAAKF","sources":["app.ts"],"sourcesContent":["const sum = (a: number, b:number) => {\n    return a+b;\n}\n\nconst a = sum(1,'ahoj');\nconsole.log('a', a)"],"names":["$de9db17bbab00a4e$var$a","console","log"],"version":3,"file":"index.b19481a5.js.map"}
